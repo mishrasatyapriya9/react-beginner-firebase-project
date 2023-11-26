@@ -1,0 +1,1 @@
+first run firebase in microsoft edge ,then run in terminal {npm run} in vs code
