@@ -1,3 +1,7 @@
+while hosting in firebase do the steps given in the firebase hosting website ,the error comes in vs code termonal then follow these steps for smooth 
+<img width="960" alt="Screenshot 2023-11-26 110728" src="https://github.com/mishrasatyapriya9/react-beginner-firebase-project/assets/106869525/41c74834-3646-4636-b6ad-ae03726ae2b1">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +17,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+
+
+
+
+
 
 ### `npm test`
 
