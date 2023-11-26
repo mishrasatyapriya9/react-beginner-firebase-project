@@ -2,6 +2,10 @@ while hosting in firebase do the steps given in the firebase hosting website ,th
 <img width="960" alt="Screenshot 2023-11-26 110728" src="https://github.com/mishrasatyapriya9/react-beginner-firebase-project/assets/106869525/41c74834-3646-4636-b6ad-ae03726ae2b1">
 
 
+
+1st npm run build
+steps in firebase hosing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
