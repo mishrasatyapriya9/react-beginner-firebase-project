@@ -5,6 +5,7 @@ while hosting in firebase do the steps given in the firebase hosting website ,th
 
 1st npm run build
 steps in firebase hosing
+firebase init
 
 # Getting Started with Create React App
 
